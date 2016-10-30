@@ -1,0 +1,8 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\bin\Debug\WarpScan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\bin\Debug\WarpScan.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.frmBasis.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Debug\WarpScan.pdb

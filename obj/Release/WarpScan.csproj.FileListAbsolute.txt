@@ -1,0 +1,19 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\bin\Release\WarpScan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\bin\Release\WarpScan.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Release\WarpScan.frmBasis.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Release\WarpScan.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Release\WarpScan.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Release\WarpScan.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\WarpScan\obj\Release\WarpScan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\bin\Release\WarpScan.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\bin\Release\WarpScan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.frmBasis.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\bin\Release\WarpScan.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\bin\Release\WarpScan.application
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.TrustInfo.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WarpScan\WarpScan\obj\Release\WarpScan.application
